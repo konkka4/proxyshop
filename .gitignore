@@ -16,3 +16,6 @@ Thumbs.db
 # cfg
 monitoring-system/config/telegrambot.cfg
 monitoring-system/config/3proxy_template.cfg
+
+# data 
+monitoring-system/data/proxies.json
