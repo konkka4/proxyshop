@@ -37,3 +37,7 @@
 - Telegram Bot API (через бібліотеку `python-telegram-bot`)
 - 3proxy
 - PostgreSQL
+
+#Як використовувати
+Клонуйте репозиторій або завантажте його:
+git clone 1.	https://github.com/konkka4/proxyshop
