@@ -40,4 +40,4 @@
 
 ## Як використовувати
 Клонуйте репозиторій або завантажте його:
-git clone 1.	https://github.com/konkka4/proxyshop
+git clone https://github.com/konkka4/proxyshop
