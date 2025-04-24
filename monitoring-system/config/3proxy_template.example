@@ -1,0 +1,7 @@
+# 3proxy.cfg (template)
+nscache 65536
+timeouts 1 5 30 60 180 1800 15 60
+log C:/3proxy/logs/3proxy.log D
+auth none
+socks -p{PORT} -a
+proxy -p{PORT_HTTP} -a
